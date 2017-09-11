@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 
-If you are reading this it is too late
-=======
-if you are seeing this it is too late.
->>>>>>> Group_Collab/master
+
