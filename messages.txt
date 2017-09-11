@@ -1,12 +1,4 @@
-
-
-<<<<<<< HEAD
-
-
 I am a spicy chicken!
 Chill
-
-=======
 Giorvi is annoying af
 Phat is a cool guy
->>>>>>> origin/master
