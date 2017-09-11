@@ -1,0 +1,1 @@
+This is how to commit, puch, pull and fetch git remotes.
